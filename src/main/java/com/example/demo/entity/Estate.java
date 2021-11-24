@@ -17,6 +17,7 @@ import lombok.With;
 @With
 @Entity
 public class Estate {
+    // this code with auth feature
     @Id
     @GeneratedValue
     Integer id;
