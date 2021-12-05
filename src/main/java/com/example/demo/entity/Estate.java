@@ -27,4 +27,5 @@ public class Estate {
     String type;
     String addressdetails;
     String description;
+
 }
